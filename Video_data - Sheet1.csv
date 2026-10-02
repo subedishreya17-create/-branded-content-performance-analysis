@@ -1,0 +1,55 @@
+Video_id,Brand,Post_date,"Platform (Insta, TikTok & Facebook)",Views (total),length_seconds,promo_start_sec,opening_style,avg_watch_time_sec,notes
+1,inDrive-Homecoming,2026-08-08,All,151517,61,14,Humor,14.8,brand ran paid ads but included organic views only
+2,inDrive-mo:mo,2026-05-24,All,73000,73,31,Humor,23,pure organic
+3,inDrive-Dream it do it,2026-09-11,All,859000,158,143,Emotional,59,pure organic
+4,Esewa,2026-09-08,All,70939,68,40,Humor,24,pure organic
+5,WaiWai,2025-07-15,All,1469575,46,26,Humor,18,pure organic
+6,Nepal Life Insurance,2026-06-22,All,49148,50,20,Humor,11,pure organic
+7,Daraz,2026-06-04,All,86290,64,19,Humor,10,pure organic
+8,Fasto,2026-05-31,All,312244,53,39,Humor,24,pure organic
+9,Royal Enfield,2026-05-14,All,47368,52,17,Humor,9,pure organic
+10,Godrej Aer,2026-04-10,All,110900,42,24,Humor,11,brand ran paid ads but included organic views only
+11,Horlicks,2026-03-15,All,91300,52,27,Humor,16,pure organic
+12,Ultima,2026-02-05,All,64100,80,35,Humor,18,pure organic
+13,Bhoj,2026-07-10,All,46200,60,21,Humor,9,pure organic
+14,Gazzabko Noodles,2026-02-03,All,358600,52,24,Humor,15,pure organic
+15,Divaa,2026-09-18,All,147100,55,32,Humor,20,pure organic
+16,Joy Papaya,2025-08-08,All,223200,58,32,Humor,11.8,pure organic
+17,Jeevee-monsoon sale,2025-07-19,All,47379,81,29,Humor,11.4,pure organic
+18,Mamaearth,2025-06-20,All,80629,58,29,Humor,10.3,pure organic
+19,Honda-showroom 1,2026-04-24,All,25754,54,3,Direct,12,pure organic
+20,Honda-showroom 2,2026-05-13,All,27309,32,4,Direct,7,pure organic
+21,Honda- NAIMA Expo,2026-08-12,All,24401,45,4,Direct,9,pure organic
+22,The Body Shop Nepal,2026-09-17,All,8046,68,6,Direct,8,pure organic
+23,Big Mart,2026-07-21,All,28322,44,10,Humor,6,pure organic
+24,Nep SOP,2026-08-19,All,94456,61,26,Humor,8.2,brand ran paid ads but included organic views only
+25,Baskin Robbins,2026-07-15,All,56383,53,17,Humor,15,pure organic
+26,VIVO,2026-07-17,All,56962,56,20,Humor,11,pure organic
+27,Oliz Store,2026-07-16,All,26600,59,16,Humor,12,pure organic
+28,Colgate,2026-04-22,All,33000,54,38,Humor,13,pure organic
+29,Ponds,2025-12-16,All,15507,40,15,Normal voiceover ,8,pure organic
+30,Kwality Thai Foods ,2026-05-11,All,20812,52,32,Humor,12,pure organic
+31,MWC,2025-08-03,All,44300,51,23,Humor,8.7,pure organic
+32,Center Fruit,2026-06-07,All,103800,55,26,Humor,18,pure organic
+33,Himalaya Happy Pet,2025-11-02,All,8787,38,27,Normal voiceover ,6.4,pure organic
+34,Elephu ,2026-07-18,All,46568,68,35,Humor,10.4,brand ran paid ads but included organic views only
+35,The British Council Nepal,2026-09-20,All,54060,53,46,Humor,21,pure organic
+36,Esewa-campaign 2,2026-09-29,All,335000,65,38,Humor,25,pure organic
+37,Nepal Communiversity,2026-08-05,All,128200,58,30,Humor,13,pure organic
+38,Worldlink communication,2026-03-10,All,78910,49,34,Humor,13,pure organic
+39,inDrive-Brand ambassador campaign,2025-10-19,All,20016,46,3,Direct,11,pure organic
+40,Fonepoints,2025-10-18,All,557100,79,44,Humor,22,pure organic
+41,inDrive-Rides for goals,2025-06-13,All,20012,43,3,Direct,6.6,pure organic
+42,Ultima- Baneshwor Opening campaign ,2025-05-30,All,179600,59,20,Humor,11.3,pure organic
+43,Bajaj Nepal,2024-10-23,All,81600,57,26,Humor,12.1,pure organic
+44,Nepal Life Insurance-Dashain campaign,2024-10-06,All,41400,51,32,Humor,11.5,pure organic
+45,Ultima-Prime 1.0 promotion,2024-10-02,All,368100,54,31,Humor,13.2,pure organic
+46,Honor Nepal,2025-01-10,All,30468,58,32,Humor,6.4,pure organic
+47,Matka Takeaway,2025-02-02,All,18133,41,13,Humor,6.9,pure organic
+48,Shivashakti edumart,2025-02-10,All,230300,63,16,Humor,7.7,pure organic
+49,Jeevee-New Year,2025-04-09,All,60600,57,34,Humor,10.1,pure organic
+50,Karobar App,2025-05-24,All,38203,61,34,Humor,9,pure organic
+51,ISAS Beauty Academy,2025-06-10,All,23817,62,17,Humor,5.8,pure organic
+52,Ncell,2025-06-25,All,17648,59,16,Humor,7.9,pure organic
+53,NLG Insurance Company ,2025-07-13,All,39400,57,28,Humor,10.8,pure organic
+54,IDP Nepal,2025-08-12,All,26841,67,27,Humor,8.3,pure organic
